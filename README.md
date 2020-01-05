@@ -1,1 +1,2 @@
 # Facebook
+pkg install git
